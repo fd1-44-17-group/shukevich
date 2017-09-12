@@ -1,0 +1,23 @@
+img {
+    float: right;
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+
+}
+
+
+ul {
+    padding-left: 10px;
+    list-style-type: square;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+#firstletter {
+    float: left;
+    font-size: 40px;
+    color: red;
+}
