@@ -1,0 +1,25 @@
+body{
+    margin: 1vw;
+}
+
+.black{
+    background-color: black;
+    width: 4vw;
+    height: 4vw;
+}
+.text{
+    font-size: 3vw;
+    text-align: center;
+}
+.column{
+    display: table-column;
+    width: 4vw;
+    height:40vw;
+    float: left;
+}
+.row{
+    height: 4vw;
+    width: 4vw;
+    border:1px solid black;
+    float: left;
+}

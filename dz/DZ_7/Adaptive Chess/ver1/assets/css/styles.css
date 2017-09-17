@@ -1,0 +1,27 @@
+body{
+    margin: 1vw;
+}
+.row{
+    width: 40vw;
+    height:4vw;
+    display: table-row;
+
+}
+.col{
+    height: 4vw;
+    width: 4vw;
+    border:1px solid black;
+    float: left;
+
+}
+
+
+.black{
+    background-color: black;
+    width: 4vw;
+    height: 4vw;
+}
+.text{
+    font-size: 3vw;
+    text-align: center;
+}
