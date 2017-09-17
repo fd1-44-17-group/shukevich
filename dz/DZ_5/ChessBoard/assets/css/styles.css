@@ -1,0 +1,185 @@
+.row {
+
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin-left: 0px;
+}
+
+
+.row1 {
+    top: 0px;
+
+}
+
+.row2 {
+    top: 50px;
+
+}
+
+.row3 {
+    top: 100px;
+
+}
+
+.row4 {
+    top: 150px;
+
+}
+
+.row5 {
+    top: 200px;
+
+}
+
+.row6 {
+    top: 250px;
+
+}
+
+.row7 {
+    top: 300px;
+
+}
+
+.row8 {
+    top: 350px;
+
+}
+
+.row9 {
+    top: 400px;
+
+}
+
+.row10 {
+    top: 450px;
+
+}
+
+.celltext {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 1px;
+}
+
+
+.blackfigure {
+    background-image: url(../img/chess.png);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    background-position-y: 1px;
+}
+
+.whitefigure {
+    background-image: url(../img/chess.png);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    background-position-y: -51px;
+}
+
+.rook {
+
+    background-position-x: -102px;
+
+}
+
+.knight {
+
+    background-position-x: -210px;
+
+}
+
+.bishop {
+
+    background-position-x: -154px;
+
+}
+
+.queen {
+
+    background-position-x: -48px;
+
+}
+
+.king {
+
+    background-position-x: 3px;
+
+}
+
+.pawn {
+
+    background-position-x: -263px;
+}
+
+
+body {
+    margin-left: 0px;
+}
+
+.column1 {
+    left: 0px;
+
+}
+
+.column2 {
+    left: 50px;
+
+}
+
+.column3 {
+    left: 100px;
+
+}
+
+.column4 {
+    left: 150px;
+
+}
+
+.column5 {
+    left: 200px;
+
+}
+
+.column6 {
+    left: 250px;
+
+}
+
+.column7 {
+    left: 300px;
+
+}
+
+.column8 {
+    left: 350px;
+
+}
+
+.column9 {
+    left: 400px;
+
+}
+
+.column10 {
+    left: 450px;
+
+}
+
+
+
+
+
+.black {
+    background-color: gray;
+    width: 48px;
+    height: 48px;
+    position: relative;
+    left: 1px;
+    top: 1px;
+}
