@@ -1,0 +1,49 @@
+.cell{
+    width: 10px;
+    height: 19px;
+    text-align: center;
+}
+
+.col{
+    float: left;
+    width: 10px;
+    height: 114px;
+}
+.col2row2{
+   margin-left: 10px;
+}
+.col3row2{
+    margin-left: -10px;
+}
+.col2row3{
+    margin-left: -10px;
+}
+.col1row3{
+    margin-left: 10px;
+}
+
+.col2row4{
+    margin-left: -10px;
+}
+.col3row4{
+    margin-left: -10px;
+}
+.col1row4{
+    margin-left: 20px;
+}
+
+.col3row5{
+    margin-left: -20px;
+}
+.col2row5{
+    margin-left: 10px;
+}
+.col1row5{
+    margin-left: 10px;
+}
+.col3row6{
+    margin-left: -20px;
+}
+.col1row6{
+    margin-left:20px ;
+}

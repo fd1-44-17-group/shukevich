@@ -1,0 +1,113 @@
+.row {
+    clear: both;
+    width: 38px;
+    height: 19px;
+    margin: 2px;
+
+}
+
+.row1col1 {
+    float: left;
+    width: 10px;
+    height: 19px;
+}
+
+.row1col3 {
+    float: right;
+    width: 10px;
+    height: 19px;
+    
+}
+
+.row1col2 {
+    float:left;
+    margin-left: 5px;
+    width: 10px;
+    height: 19px;
+}
+
+.row2col1 {
+    float: left;
+}
+
+.row2col2 {
+    float: right;
+    width: 10px;
+    height: 19px;
+}
+
+.row2col3 {
+    width: 10px;
+    height: 19px;
+    margin-left: 14px;
+}
+
+
+.row3col2 {
+    float: left;
+    width: 10px;
+    height: 19px;
+}
+
+.row3col3 {
+    float: right;
+    width: 10px;
+    height: 19px;
+    margin-right: -25px;
+}
+
+.row3col1 {
+    margin-right: 14px;
+    width: 10px;
+    height: 19px;
+    float:right;
+    
+}
+
+.row4col1 {
+    float: right;
+    width: 10px;
+    height: 19px;
+}
+
+.row4col2 {
+    float: left;
+    width: 10px;
+    height: 19px;
+}
+
+.row4col3 {
+    float:right;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.row5col1 {
+    float:right;
+    margin-right: 15px;
+    
+}
+
+.row5col2 {
+    float: right;
+    margin-right: -20px;
+}
+
+.row5col3 {
+    float: left
+}
+
+.row6col1 {
+    float: right;
+    
+}
+
+.row6col2 {
+    float: right;
+   margin-right:7px;
+   
+}
+
+.row6col3 {
+    float: left;
+}
