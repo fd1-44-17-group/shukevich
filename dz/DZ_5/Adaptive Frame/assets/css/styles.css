@@ -1,15 +1,15 @@
-.top{
-
+.top {
     position: relative;
-    top:0px;
+    top: 0px;
     width: 100%;
     min-height: 120px;
 }
-body{
-    margin: 0px;
 
+body {
+    margin: 0px;
 }
-.topleft{
+
+.topleft {
     background-image: url(../img/ramka1_01.gif);
     width: 120px;
     height: 120px;
@@ -20,7 +20,7 @@ body{
 }
 
 
-.topmiddle{
+.topmiddle {
     background-image: url(../img/ramka1_02.gif);
     height: 120px;
     background-repeat: repeat-x;
@@ -29,70 +29,70 @@ body{
     left: 120px;
     top: 0px;
 }
-.topright{
+
+.topright {
     background-image: url(../img/ramka1_03.gif);
     width: 120px;
     height: 120px;
     background-repeat: no-repeat;
     position: absolute;
     right: 0px;
-    top:0px;
+    top: 0px;
 }
 
-.bottom{
+.bottom {
     position: relative;
     bottom: 0px;
     width: 100%;
     min-height: 120px;
-
 }
-.bottomleft{
+
+.bottomleft {
     background-image: url(../img/ramka1_07.gif);
     width: 120px;
     height: 120px;
     background-repeat: no-repeat;
     position: absolute;
-    bottom:0px;
+    bottom: 0px;
     left: 0px;
 }
-.bottommiddle{
+
+.bottommiddle {
     background-image: url(../img/ramka1_08.gif);
     height: 120px;
     background-repeat: repeat-x;
     width: 100%;
     position: absolute;
     left: 120px;
-    bottom:0px;
+    bottom: 0px;
 }
 
-.bottomright{
+.bottomright {
     background-image: url(../img/ramka1_09.gif);
     width: 120px;
     height: 120px;
     background-repeat: no-repeat;
     position: absolute;
     right: 0px;
-    bottom:0px;
+    bottom: 0px;
 }
-.middle{
 
+.middle {
     position: relative;
     min-height: 200px;
     max-height: 100%;
-
 }
 
-.rightmiddle{
+.rightmiddle {
     background-image: url(../img/ramka1_06.gif);
     width: 120px;
     background-repeat: repeat-y;
     height: 100%;
     position: absolute;
     right: 0px;
-
-
 }
-.leftmiddle{
+
+.leftmiddle {
     background-image: url(../img/ramka1_04.gif);
     width: 120px;
     background-repeat: repeat-y;
@@ -100,7 +100,3 @@ body{
     left: 0px;
     position: absolute;
 }
-
-
-
-
